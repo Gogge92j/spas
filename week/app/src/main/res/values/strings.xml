@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tasks</string>
+
+    <string name="weekday_placeholder">Weekday</string>
+    <string name="text_placeholder">Husk nu lige dit og dat!</string>
+    <string name="time_placeholder">18:00-19:00</string>
+    <string name="progress_placeholder">10/10</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_help">Settings</string>
+    <string name="action_search">Search</string>
+
+    <string-array name="state_choices"><item>In progress</item><item>Done</item><item>Pending</item></string-array>
+</resources>

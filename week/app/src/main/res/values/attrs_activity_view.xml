@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="ActivityView">
+        <attr name="stringField" format="string" localization="suggested" />
+        <attr name="timeField" format="string" />
+    </declare-styleable>
+</resources>
